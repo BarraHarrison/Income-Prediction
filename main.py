@@ -1,1 +1,0 @@
-# Income-Prediction ML Project
